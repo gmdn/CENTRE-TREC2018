@@ -1,0 +1,165 @@
+1	frequent stools	sosy	C0848342	frequent passing of stools	frequent passing of stools,frequent stools,frequent stooling,frequent stool,Frequent;stools
+1	melena	patf	C0025222	Melena	Dark stools,MELAENA,MELENA,Altered blood in stool,Black, tarry stool,Black stools,BLACK STOOL,Altered blood passed per rectum
+2	of hip arthroplasty	topp	C0186193	Repair of hip	Arthroplasty of coxofemoral joint, NOS,Arthroplasty of the hip,HIP ARTHROPLASTY,Arthroplasty of coxofemoral joint,Arthroplasty of hip
+3	temp	topp	C0279848	cisplatin/etoposide/mitoxantrone/tamoxifen protocol	CDDP/DHAD/TMX/VP-16,cisplatin/etoposide/mitoxantrone/tamoxifen,cisplatin/etoposide/mitoxantrone/tamoxifen protocol,TEMP,Cisplatin/Etoposide/Mitoxantrone/Tamoxifen
+3	bradycardia	patf	C0428977	Bradycardia	BRADYCARDIA
+3	hypoglycemic	phsu	C0020616	Hypoglycemic Agents	Agents, Antihyperglycemic,Agents, Hypoglycemic,Antihyperglycemics,Drugs, Hypoglycemic,Anti-hyperglycemics,Antihyperglycemic Agents,Diabetes Medicines
+3	anuric	dsyn	C0003460	Anuria	Absent urine output,ANURIA,Absence of urine volume,Anuria
+3	leukocytosis	patf	C0023518	Leukocytosis	LEUKOCYTOSIS,Disorder characterized by leukocytosis,High white blood count,Increased blood leukocyte number,Elevated white blood count
+3	UA	lbpr	C0042014	Urinalysis	Analysis of urine
+4	tachycardia	patf	C0039231	Tachycardia	CARDIAC ARRHYTHMIA, TACHYCARDIA,Fast heart rate
+4	chest pain	sosy	C0008031	Chest Pain	Chest Pain,CHEST PAIN
+4	osteoporosis	dsyn	C0029456	Osteoporosis	OSTEOPOROSIS,Bone rarefaction,OP - Osteoporosis,Generalized osteoporosis
+5	productive cough	sosy	C0239134	Productive cough	Loose cough,Cough;productive,Productive Cough,COUGH, PRODUCTIVE,COUGH PRODUCTIVE,Productive cough (finding),Loose Cough,Moist cough,Productive cough,Producing sputum
+5	multiple conditions	dsyn	C0679225	multiple pathologies	disorders coexisting,multiple disorder,multiple pathologies,multiple disorders,coexisting disorders
+5	dyspnea	sosy	C0013404	Dyspnea	BREATHLESSNESS,Breathing difficult,Breath shortness,BREATH SHORTNESS,Breathlessness,Breath Shortnesses,Breathless,BREATHING DIFFICULT,Breathing Difficulties,Breath Shortness
+5	chronic conditions	dsyn	C0008679	Chronic disease	Chronic Diseases,Chronic Illness,Chronic Illnesses,Chronic Disease,Chronic illness,Chronic disease (disorder),Chronic disease, NOS,Chronic disease,Chronic diseases,Chronic disorder,Chronic Disease [Disease/Finding]
+6	gallstones	dsyn	C0947622	Cholecystolithiasis	Calculus gallbladder,Calculus of gallbladder,Calculus in gallbladder,CALCULUS GALLBLADDER,Cholecystolithiasis
+6	abdominal pain	sosy	C0000737	Abdominal Pain	Abdominal Pains,ABDOMINAL PAIN NOS,Abdominal Pain [Disease/Finding],ABDOMINAL PAIN,AP - Abdominal pain,Abdominal pain,ABDOMEN PAIN,Abdominal Pain
+6	atrial fibrillation	dsyn	C0004238	Atrial Fibrillation	Afib,AF - Atrial fibrillation,AURICULAR FIBRILLATION,AFib,Atrial Fibrillation,AF,ATRIAL FIBRILLATION
+6	DVT	dsyn	C0149871	Deep Vein Thrombosis	Deep Venous Thromboses,DEEP VEIN THROMBOSIS,Deep Vein Thromboses,DVT,DEEP VENOUS THROMBOSIS MULTIPLE,Deep Vein Thrombosis,Deep Venous Thrombosis,Blood clot in a deep vein,DVT NOS,DEEP VENOUS THROMBOSIS,DVT - Deep vein thrombosis
+6	obstruction	patf	C0028778	Obstruction	OBSTRUCTIONS,Obstruction,Blocked,BLOCK,OBSTRUCTION,Block, NOS,Block
+6	CBD	orch,phsu	C0006863	Cannabidiol	CANNABIDIOL,1,3-Benzenediol, 2-(3-methyl-6-(1-methylethenyl)-2-cyclohexen-1-yl)-5-pentyl-, (1R-trans)-,(-)-trans-cannabidiol,(-)-trans-2-p-mentha-1,8-dien-3-yl-5-pentylresorcinol,Cannabidiol,CBD,(1'R,2'R)-5'-methyl-4-pentyl-2'-(prop-1-en-2-yl)-1',2',3',4'-tetrahydrobiphenyl-2,6-diol
+6	biliary obstruction	dsyn	C0400979	Obstruction of biliary tree	biliary duct obstruction (diagnosis),Biliary Obstruction,BILIARY TRACT OBSTRUCTION,BILIARY OBSTRUCTION,Obstruction of biliary tree,biliary obstruction,biliary tract obstruction,Biliary obstruction,Obstruction;biliary,Biliary Tract Obstruction,biliary duct obstruction,Biliary system obstruction,biliary obstructions,Biliary tract obstruction,Obstruction of biliary tree (disorder)
+7	elevated lipase	dsyn	C1963823	Hyperlipasaemia	Hyperlipasemia,Elevated Lipase,Hyperlipasaemia
+7	cholelithiasis	dsyn	C0008350	Cholelithiasis	Biliary calculus,Biliary Calculi,CHOLELITHIASIS,CL - Cholelithiasis,BILIARY STONES,Calculus - biliary,Biliary stones
+7	pancytopenia	dsyn	C0030312	Pancytopenia	Bone Marrow Failure,Low blood cell count,Bone marrow failure,Pancytopenia,PANCYTOPENIA
+7	obesity	dsyn	C0028754	Obesity	OBESE,Adiposity,OBESITY
+7	coagulopathy	dsyn	C0005779	Blood Coagulation Disorders	Blood coagulation disorder (disorder),Abnormality of the coagulation cascade,BLOOD COAGULATION DISORDER,Blood coagulation disorder, NOS,Blood Coagulation Disorders,Blood coagulation disorder,BLOOD COAGULATION DEFECT,Abnormal;coagulation,Blood Coagulation Disorder,Blood clotting disorder, NOS,Blood clotting disorder,Blood Coagulation Disorders [Disease/Finding],Blood Coagulation Disorders, Diseases and Syndromes
+7	hypertension	dsyn	C0020538	Hypertensive disease	Blood Pressure, Increased,Arterial hypertension,Blood Pressures, High,Elevated blood pressure,Blood Pressure, High,Complications affecting other specified body systems, not elsewhere classified, hypertension,BP+ - Hypertension,BP - High blood pressure,Blood pressure high,BLOOD PRESSURE HIGH,HBP
+8	hyperemesis	sosy	C0020450	Hyperemesis Gravidarum	Excessive vomiting in pregnancy,Excess vomiting in pregnancy,HYPEREMESIS GRAVIDARUM,Excessive pregnancy vomiting,Excessive vomiting in pregnancy (disorder)
+8	bicarbonate	inch,phsu	C0005367	Bicarbonates	Bicarbonate analyte,BICARBONATES,Bicarbonate, NOS,BICARBONATE,Bicarbonate (substance),Actual bicarbonate,Bicarbonates [Chemical/Ingredient],Bicarbonate,Bicarbonate (HCO3),Bicarbonates
+8	ketones in urine	dsyn	C0162275	Ketonuria	ACETONURIA,Acetonurias,Acetonuria,Acetonuria (finding)
+9	Infant respiratory distress syndrome	dsyn	C0035220	Respiratory Distress Syndrome, Newborn	Cardiorespiratory distress syndrome of newborn,Congenital alveolar dysplasia,DISTRESS RESPIRATORY SYNDROME NEWBORN
+9	prematurity	dsyn	C0021294	Infant, Premature	Infants (Premature),BABY PREMATURE,INFANT PRETERM,Baby premature,Immature;infant,Infant premature,Baby born premature,Infant, Premature,Immature baby,INFANT PREMATURE
+9	Chest x-ray	diap	C0039985	Plain chest X-ray	Chest exclusion X-ray,Chest x-ray,Chest--Radiography,CXR,Chest x-ray, NOS,CHEST X RAY,Chest X-ray,Chest Radiography,Plain chest X-ray,CXR - Chest X-ray
+9	opacities	patf	C1265876	Abnormally opaque structure (morphologic abnormality)	Abnormally opaque structure,opacity,opacities,Abnormally opaque structure (morphologic abnormality),Opacity
+10	sarcoidosis	dsyn	C0036202	Sarcoidosis	BOECK SARCOID,Benign lymphogranulomatosis of Schaumann,BESNIER-BOECK-SCHAUMANN DISEASE,Benign Lymphogranulomatosis,Besnier Boeck Schaumann Syndrome,Besnier-Boeck-Schaumann Syndrome,Besnier Boeck disease,Besnier-Boeck-Schaumann disease,Besnier-Boeck-Schaumann's disease,Besnier-Boeck Disease,Benign Lymphogranulomatosis, Schaumann's,Besnier-Boeck,Besnier Boeck Disease,Besnier-Boeck-Schaumann syndrome
+10	asterixis	sosy	C0232766	Asterixis	Asterixis,ASTERIXIS
+10	confusion	sosy	C0683369	Clouded consciousness	Confused,Dazed,Confusion,Clouded consciousness,Dullness of senses,clouding of sensorium,Clouded consciousness (finding),Muddled,Dazed state,Consciousness clouding,Clouding of consciousness,clouded consciousness
+10	Ammonia level	lbpr	C0201879	Ammonia measurement	Ammonia measurement (procedure),Ammonia measurement,Ammonia,Ammonia level,ASSAY OF AMMONIA,AMMONIA,Ammonia Measurement
+11	CABG	topp	C0010055	Coronary Artery Bypass Surgery	Aortocoronary Bypasses,ACB graft,Aorto-coronary artery bypass graft,Aortocoronary artery bypass graft,Aortocoronary bypass for heart revascularization, not otherwise specified,Aortocoronary bypass for heart revascularization, NOS,Aortocoronary artery bypass graft (procedure),Aortocoronary bypass for heart revascularisation,Aortocoronary bypass for heart revascularization,Aortocoronary Bypass,Aortocoronary bypass
+11	chest pain	sosy	C0008031	Chest Pain	Chest Pain,CHEST PAIN
+11	of chest pain	sosy	C0024902	Mastodynia	Breast Pains,Breast pain,BREAST PAIN,Breast painful,Ache breast,Breast Pain
+12	head CT	diap	C0202691	CAT scan of head	Computerised tomogram head,CT scan of head (procedure),CT scan of the head,Computerized axial tomography of head,CT of head,Computed tomography of head,C.A.T. scan of head,CAT scan of head,CT scan;head,Computerised axial tomography of head,Computerised tomography of head,Computed tomography of head (procedure),CT scan of head,CT of structures of the head
+12	hemorrhages	patf	C0019080	Hemorrhage	BLOOD LOSS,Bleeding (finding),BLEEDING,Bleeding,BLEED_NOS PROBLEM
+12	auto	lbpr	C1441488	Auto	Auto
+13	thrombocytosis	dsyn	C0836924	Thrombocytosis	THROMBOCYTHAEMIA,THROMBOCYTOSIS,THROMBOCYTHEMIA,Elevated Platelet Count,Platelet Count Increased
+13	paraplegia	dsyn	C0030486	Paraplegia	PARAPLEGIA,EXTREMITY PARALYSIS, LOWER,Lower paraplegia,Leg paralysis,Hindlimb paralysis
+13	pressure ulcers	dsyn	C0011127	Pressure Ulcer	Bedsores,Bed Sore,DECUBITUS ULCER,DECUBITUS SKIN ULCER,Contact ulcer,DECUBITUS ULCER CHRONIC,Bed sores,Bedsore,Bed sore,Bed Sores,BEDSORE
+13	chills	sosy	C0085593	Chills	CHILLS,Chills,Chill (finding),Chilling,Chill,CHILL
+13	agitation	sosy	C0085631	Agitation	AGITATED,AGITATION,Agitated,Agitated behavior,Agitated behaviour
+13	back pain	sosy	C0004604	Back Pain	Back Pain [Disease/Finding],Back Aches,Back ache,Ache, Back,BACKACHE,BACK PAIN,BACKPAIN,Back Pain,Back Ache,BACK ACHE,Aches, Back,Back Pains
+13	decubitus ulcers coccyx	dsyn	C2712533	Decubitus ulcer, coccyx	Decubitus ulcer, coccyx
+13	rigors	sosy	C0424790	Rigor - Temperature-associated observation	AGUE,RIGOR,CHILL SHAKING
+13	transverse myelitis	dsyn	C0026976	Myelitis, Transverse	MYELITIS TRANSVERSE
+14	COPD	dsyn	C0024117	Chronic Obstructive Airway Disease	AIRWAY OBSTRUCTION CHRONIC,AIRWAY DISEASE SMALL,CAL - Chronic airflow limitation,CAFL - Chronic airflow limitation
+14	cough	sosy	C0010200	Coughing	COUGHING,COUGHS,Complaining of cough (finding),C/O - cough,COUGH,Cough,Complaining of cough
+14	breast cancer	neop	C0006142	Malignant neoplasm of breast	Breast Cancer,Breast Malignant Tumor,BREAST CANCER,Breast tumor malignant,Breast cancer stage unspecified,BREAST CANCER NOS,Breast Malignant Neoplasm,Breast cancer,Breast Malignant Neoplasms,Breast Malignant Tumors,Breast--Cancer,Breast tumour malignant,Breast cancer NOS
+14	SOB	sosy	C0013404	Dyspnea	BREATHLESSNESS,Breathing difficult,Breath shortness,BREATH SHORTNESS,Breathlessness,Breath Shortnesses,Breathless,BREATHING DIFFICULT,Breathing Difficulties,Breath Shortness
+14	hypoxia	patf	C0242184	Hypoxia	Decreased oxygen supply,Deficiencies, Oxygen,Deficiency, Oxygen,HYPOXIA
+14	sore throat	sosy	C0242429	Sore Throat	
+15	activity	lbpr	C4049938	Physical Activity Measurement	Physical Activity Measurement,ACTIVITY,Activity
+15	resection squamous cell carcinoma	topp	C1610633	Squamous cell carcinoma resection	Squamous cell carcinoma excision
+15	weakness	sosy	C3714552	Weakness	Debility,DEBILITY
+15	recurrence	neop	C1458156	Recurrent Malignant Neoplasm	recurrent cancer,recurrence,Recurrent Malignant Tumor,Recurrent Cancer,Recurrent Malignant Neoplasm
+15	tolerance	patf	C0020963	Immune Tolerance	Immune Tolerance,Immunologic tolerance,Immunologic tolerance, function (observable entity),Immunological Tolerance,Immunological tolerance,Immunologic tolerance, NOS,Immunologic unresponsiveness,Immunologic paralysis,Immunologic Tolerance,Immunologic tolerance, function
+15	stent placement	topp	C0522776	Placement of stent	Placement of stent,Stent placement,STENT PLACEMENT,Placement of stent (procedure),Stent insertion NOS
+15	shoulder pain	sosy	C0037011	Shoulder Pain	Pain, Shoulder,Pain in shoulder,Pain;musculoskeletal;shoulder,Pain in unspecified shoulder,Pain;shoulder,SHOULDER PAIN,Pains, Shoulder
+15	COPD	dsyn	C0024117	Chronic Obstructive Airway Disease	AIRWAY OBSTRUCTION CHRONIC,AIRWAY DISEASE SMALL,CAL - Chronic airflow limitation,CAFL - Chronic airflow limitation
+15	cough	sosy	C0010200	Coughing	COUGHING,COUGHS,Complaining of cough (finding),C/O - cough,COUGH,Cough,Complaining of cough
+15	tracheobronchomalacia	dsyn	C0340231	Tracheobronchomalacia	Tracheobronchomalacia [Disease/Finding],Tracheobronchomalacia (disorder),Tracheobronchomalacias,Chondromalacia of Trachea and Bronchi,Tracheobronchomalacia,Syndrome, Williams-Campbell
+15	Decreased activity	sosy	C0086439	Hypokinesia	ACTIVITY DECREASED,Behavior showing reduced motor activity,Behavior showing reduced motor activity (finding),Activity motor retarded,ACTIVITY MOTOR RETARDED,Behaviour showing reduced motor activity
+15	SOB	sosy	C0013404	Dyspnea	BREATHLESSNESS,Breathing difficult,Breath shortness,BREATH SHORTNESS,Breathlessness,Breath Shortnesses,Breathless,BREATHING DIFFICULT,Breathing Difficulties,Breath Shortness
+15	decreased appetite	sosy	C0232462	Decrease in appetite	Appetite decreased NOS,APPETITE DECREASE,APPETITE DECREASED
+15	avid	orch,phsu	C2986972	Avid	Avid
+15	PET scan	diap	C0032743	Positron-Emission Tomography	Medical Imaging, Positron Emission Tomography,PET imaging,PET Scan,PET - Positron emission tomography,Imaging, PET,PET Scans,PET SCAN,PET,PET scan
+15	therapeutic aspirations	topp	C0411332	Therapeutic aspiration procedure	Therapeutic Aspiration,Therapeutic aspiration,Therapeutic aspiration procedure,Therapeutic aspiration procedure (procedure),Aspiration -therapeutic
+15	pain	sosy	C0030193	Pain	Dolor,Ache
+16	confusion	sosy	C0683369	Clouded consciousness	Confused,Dazed,Confusion,Clouded consciousness,Dullness of senses,clouding of sensorium,Clouded consciousness (finding),Muddled,Dazed state,Consciousness clouding,Clouding of consciousness,clouded consciousness
+17	Coumadin	orch,phsu	C0699129	Coumadin	Coumadin,marevan,coumadin,Marevan
+17	atrial fibrillation	dsyn	C0004238	Atrial Fibrillation	Afib,AF - Atrial fibrillation,AURICULAR FIBRILLATION,AFib,Atrial Fibrillation,AF,ATRIAL FIBRILLATION
+17	dyspnea	sosy	C0013404	Dyspnea	BREATHLESSNESS,Breathing difficult,Breath shortness,BREATH SHORTNESS,Breathlessness,Breath Shortnesses,Breathless,BREATHING DIFFICULT,Breathing Difficulties,Breath Shortness
+18	elevated lipase	dsyn	C1963823	Hyperlipasaemia	Hyperlipasemia,Elevated Lipase,Hyperlipasaemia
+18	hep C	imft,phsu	C2148557	Hep C	Hep C,hepatitis C vaccine,hepatitis C vaccine (medication)
+18	seizures	sosy	C0036572	Seizures	CONVULSION (NOS),CONVULSION,Convulsion,CONVULSIONS
+18	nausea	sosy	C0027497	Nausea	Feeling sick,FEELING QUEASY,Feeling bilious,Feeling queasy,C/O - nausea
+18	diarrhea	sosy	C0011991	Diarrhea	D - Diarrhoea,DIARRHEA,DIARRHOEA,D - Diarrhea
+18	abdominal pain	sosy	C0000737	Abdominal Pain	Abdominal Pains,ABDOMINAL PAIN NOS,Abdominal Pain [Disease/Finding],ABDOMINAL PAIN,AP - Abdominal pain,Abdominal pain,ABDOMEN PAIN,Abdominal Pain
+18	Delirium Tremens	dsyn	C0001957	Alcohol Withdrawal Delirium	ALCOHOLIC DELIRIUM,Alcohol Withdrawal-Induced Delirium Tremens,Alcohol Withdrawal Induced Delirium Tremens,Alcohol withdrawal delirium,Alcohol withdrawal delirium (disorder),Alcohol Withdrawal Delirium,Alcohol Withdrawal Delirium [Disease/Finding],Alcoholic delirium,ALCOHOL WITHDRAWAL DELIRIUM TREMENS
+19	headache	sosy	C0018681	Headache	CEPHALGIA,CEPHALALGIA
+19	Diabetes	dsyn	C0011849	Diabetes Mellitus	DM,DIABETES MELLITUS NOS,DIABETES MELLITUS,DM - Diabetes mellitus,DIABETES MELLITUS NOS DIAGNOSED
+19	vomiting	sosy	C0042963	Vomiting	Being sick,EMESIS,Emesis
+19	weakness	sosy	C3714552	Weakness	Debility,DEBILITY
+19	confusion	sosy	C0683369	Clouded consciousness	Confused,Dazed,Confusion,Clouded consciousness,Dullness of senses,clouding of sensorium,Clouded consciousness (finding),Muddled,Dazed state,Consciousness clouding,Clouding of consciousness,clouded consciousness
+19	blurry vision	sosy	C0344232	Blurred vision	Blurring of vision,Blurred vision NOS,Blurred vision, NOS,Blurred vision,Blurred;vision,BLURRED VISION,Blurred vision - hazy,Blurred Vision,Blurring,Blurring of eyes
+19	presyncope	sosy	C0700200	Presyncope	Near syncope (disorder),Near syncope,PRESYNCOPE,PRE-SYNCOPE,NEAR SYNCOPE
+19	coumadin	orch,phsu	C0699129	Coumadin	Coumadin,marevan,coumadin,Marevan
+19	numbness	sosy	C0028643	Numbness	Loss of Sensation,Numbness,Loss (of);sensation,Loss of sensation,NUMBNESS,Deadness - numbness
+19	Atrial fibrillation	dsyn	C0004238	Atrial Fibrillation	Afib,AF - Atrial fibrillation,AURICULAR FIBRILLATION,AFib,Atrial Fibrillation,AF,ATRIAL FIBRILLATION
+19	nausea	sosy	C0027497	Nausea	Feeling sick,FEELING QUEASY,Feeling bilious,Feeling queasy,C/O - nausea
+19	CKD	dsyn	C1561643	Chronic Kidney Diseases	Chronic Kidney Disease,CKD - chronic kidney disease,CKD - Chronic Kidney Disease,Chronic kidney disease (CKD),Chronic Renal Insufficiency,Chronic Kidney Diseases,Chronic Renal Failure,Chronic Renal Diseases,Chronic Renal Disease,Chronic kidney disease,CKD
+19	HTN	dsyn	C0020538	Hypertensive disease	Blood Pressure, Increased,Arterial hypertension,Blood Pressures, High,Elevated blood pressure,Blood Pressure, High,Complications affecting other specified body systems, not elsewhere classified, hypertension,BP+ - Hypertension,BP - High blood pressure,Blood pressure high,BLOOD PRESSURE HIGH,HBP
+19	tingling	sosy	C2242996	Has tingling sensation	TINGLING,Tingling sensation,Tingling,Has tingling sensation
+19	ischemic stroke	dsyn	C0948008	Ischemic stroke	Ischaemic stroke,Arterial Ischemic Stroke,Ischaemic stroke NOS,ISCHEMIC STROKE
+20	abdominal pain	sosy	C0000737	Abdominal Pain	Abdominal Pains,ABDOMINAL PAIN NOS,Abdominal Pain [Disease/Finding],ABDOMINAL PAIN,AP - Abdominal pain,Abdominal pain,ABDOMEN PAIN,Abdominal Pain
+20	amylase	aapp,enzy,phsu	C0002712	Amylases	Amylase (substance),Amylases,Amylase,AMYLASE
+20	nausea	sosy	C0027497	Nausea	Feeling sick,FEELING QUEASY,Feeling bilious,Feeling queasy,C/O - nausea
+20	lipase	aapp,enzy,phsu	C0023764	Lipase	Hydrolase, Triacylglycerol,Hydrolase, Triolean,LIPASE,Lipase
+21	right upper lobe pneumonia	dsyn	C0585106	Right upper zone pneumonia	pneumonia right upper zone,Right upper zone pneumonia,Right upper zone pneumonia (disorder),RUZ - Right upper zone pneumonia,Right upper lobe pneumonia,RUL - Right upper lobe pneumonia,Right upper zone pneumonia (diagnosis),Lobar pneumonia right upper lobe
+21	productive cough	sosy	C0239134	Productive cough	Loose cough,Cough;productive,Productive Cough,COUGH, PRODUCTIVE,COUGH PRODUCTIVE,Productive cough (finding),Loose Cough,Moist cough,Productive cough,Producing sputum
+21	CXR	diap	C0039985	Plain chest X-ray	Chest exclusion X-ray,Chest x-ray,Chest--Radiography,CXR,Chest x-ray, NOS,CHEST X RAY,Chest X-ray,Chest Radiography,Plain chest X-ray,CXR - Chest X-ray
+21	disease	dsyn	C0012634	Disease	Clinical disease AND/OR syndrome,Clinical disease or syndrome present, NOS,Clinical disease or syndrome,DISEASE,Disease AND/OR syndrome present,Disease,Clinical disease AND/OR syndrome present,Clinical disease or syndrome present,Disease or Disorder,Disease (disorder),Clinical disease or syndrome, NOS,Disease [Disease/Finding]
+21	BMT	topp	C0005961	Bone Marrow Transplantation	Bone Marrow Grafting,Bone marrow graft,Bone Marrow Transplantation,BONE MARROW TRANSPLANT,BMT - Bone marrow transplant,Bone marrow transplant,BMT,Bone Marrow Transplant
+21	CMV infection	dsyn	C0010823	Cytomegalovirus Infections	Cytomegalic inclusion disease,CMV Infections,CYTOMEGALOVIRUS INFECTION,CYTOMEGALUS VIRUS INFECTION,CYTOMEGALIC INCLUSION DISEASE,CMV INFECTION,Cytomegalic Inclusion Diseases,CMV - Cytomegalovirus infection,CMV infection,CMV Infection,Cytomegalic Inclusion Disease,CMV
+21	hypoxia	patf	C0242184	Hypoxia	Decreased oxygen supply,Deficiencies, Oxygen,Deficiency, Oxygen,HYPOXIA
+22	CABG	topp	C0010055	Coronary Artery Bypass Surgery	Aortocoronary Bypasses,ACB graft,Aorto-coronary artery bypass graft,Aortocoronary artery bypass graft,Aortocoronary bypass for heart revascularization, not otherwise specified,Aortocoronary bypass for heart revascularization, NOS,Aortocoronary artery bypass graft (procedure),Aortocoronary bypass for heart revascularisation,Aortocoronary bypass for heart revascularization,Aortocoronary Bypass,Aortocoronary bypass
+22	vfib	dsyn	C0042510	Ventricular Fibrillation	FIBRILLATION PAROXYSMAL VENT,Cardiac arrest and ventricular fibrillation,Cardiac arrest - ventricular fibrillation,FIBRILLATION VENTRICULAR
+22	CHF	dsyn	C0018802	Congestive heart failure	Cardiac failure,CARDIAC FAILURE CONGESTIVE,CHF,CCF - Congestive cardiac failure,Cardiac failure congestive,Cardiac failure, congestive,CHF - Congestive heart failure,Cardiac Failure,Cardiac Failure Congestive,CHF (congestive heart failure),CONGESTIVE HEART FAILURE
+23	black stools	sosy	C0474585	Feces color: tarry	Black faeces symptom,Black feces symptom,Dark stool,Black feces (finding),Feces color: tarry (finding),Dark stools,Faeces colour: tarry,Dark stools (finding),Black stools,Black feces symptom (finding),Dark feces,Black feces,Dark faeces,Feces color: tarry,Black faeces
+23	colon CA	neop	C0007102	Malignant tumor of colon	Cancer of the Colon,COLON NOS CANCER,Cancer of Colon,Cancers, Colon,COLON CANCER,Cancer of colon,CA - Cancer of colon,Cancer, Colonic,Cancers, Colonic,Cancer, Colon
+23	HCT	lbpr	C0018935	Hematocrit procedure	HEMATOCRIT,Blood count; hematocrit (Hct),Haematocrit,Erythrocyte Volume Fraction,HCT,EVF,BLOOD COUNT HEMATOCRIT,Erythrocyte Volume, Packed,Erythrocyte Volumes, Packed
+23	resection	topp	C0728940	Excision	Excision procedure,Excision,Abscission,Excision - action (qualifier value),EXCISIONS,Excisional,Extirpation, NOS,Abscission, NOS,Excision, NOS,Excision - action,Extirpation,EXCISION,Excision (procedure),Excision, NOS (-ectomy),-ectomy
+24	low urinary output	dsyn	C0028961	Oliguria	OLIGURIA,Decreased urine volume,Decreased urine output (finding),Decreased Urine Output,Decreased urine output,LOW URINE OUTPUT
+24	small bowel obstruction	dsyn	C0235329	Small bowel obstruction	OBSTRUCTION SMALL INTESTINE,Obstruction small intestine
+24	quadriplegia	dsyn	C0034372	Quadriplegia	Bilateral Diplegia,QuaDriplegia,QUADRIPLEGIA,QUADRAPLEGIA,Paralysis of all four limbs
+24	multiple sclerosis	dsyn	C0026769	Multiple Sclerosis	Disseminated Sclerosis,DS - Disseminated sclerosis,Disseminated sclerosis
+25	medication	phsu	C0013227	Pharmaceutical Preparations	Drug Product,Drugs,Drug, NOS,Drug or medicament,DRUG,Drug preparation, NOS,Drug,Drug or medicament (substance)
+25	shortness of breath	sosy	C0013404	Dyspnea	BREATHLESSNESS,Breathing difficult,Breath shortness,BREATH SHORTNESS,Breathlessness,Breath Shortnesses,Breathless,BREATHING DIFFICULT,Breathing Difficulties,Breath Shortness
+25	Chronic Obstructive Pulmonary Disease	dsyn	C0024117	Chronic Obstructive Airway Disease	AIRWAY OBSTRUCTION CHRONIC,AIRWAY DISEASE SMALL,CAL - Chronic airflow limitation,CAFL - Chronic airflow limitation
+25	repair of atrial septum defect	topp	C0189965	Atrioseptoplasty	Closure of defect of interatrial septum,Atrioseptopexy,Atrioseptoplasty,ATRIAL SEPTAL DEFECT REPAIR,Closure of atrial septal defect (procedure),Atrial septal defect repair,Correction of atrial septal defect,ASD - Repair of atrial septal defect,Closure of atrial septal defect
+25	hyperlipidemia	dsyn	C0020473	Hyperlipidemia	HYPERLIPAEMIA,HLD - Hyperlipidemia,HYPERLIPIDEMIA,HLD - Hyperlipidaemia,Disorder characterized by hyperlipidemia,HYPERLIPEMIA
+25	atrial fibrillation	dsyn	C0004238	Atrial Fibrillation	Afib,AF - Atrial fibrillation,AURICULAR FIBRILLATION,AFib,Atrial Fibrillation,AF,ATRIAL FIBRILLATION
+25	hypertension	dsyn	C0020538	Hypertensive disease	Blood Pressure, Increased,Arterial hypertension,Blood Pressures, High,Elevated blood pressure,Blood Pressure, High,Complications affecting other specified body systems, not elsewhere classified, hypertension,BP+ - Hypertension,BP - High blood pressure,Blood pressure high,BLOOD PRESSURE HIGH,HBP
+26	junctional rhythm	patf	C0232208	Atrioventricular junctional rhythm	AV NODE RHYTHMS,Junctional rhythm,Atrioventricular junctional rhythm (disorder),Junctional Rhythm by EKG Finding,JUNCTIONAL RHYTHM,Nodal rhythm,AV junctional rhythm,Junctional Rhythm,Junctional Rhythm by ECG Finding,Atrioventricular junctional rhythm
+26	fatigue	sosy	C0015672	Fatigue	Energy decreased,Decreased energy,Decrease in energy
+26	shortness of breath	sosy	C0013404	Dyspnea	BREATHLESSNESS,Breathing difficult,Breath shortness,BREATH SHORTNESS,Breathlessness,Breath Shortnesses,Breathless,BREATHING DIFFICULT,Breathing Difficulties,Breath Shortness
+26	Hyperlipidemia	dsyn	C0020473	Hyperlipidemia	HYPERLIPAEMIA,HLD - Hyperlipidemia,HYPERLIPIDEMIA,HLD - Hyperlipidaemia,Disorder characterized by hyperlipidemia,HYPERLIPEMIA
+26	cardioversion	topp	C0013778	Electric Countershock	Cardioversion,Cardioversion, Electrical,Cardiac countershock, NOS,Cardioversion (procedure),Cardiac Electroversions,CARDIOVERSION, ELECTRICAL,Cardiac Electroversion,Cardioversion, NOS,CARDIOVERSION
+26	intubation	topp	C0021925	Intubation	INTUBATION,Intubation
+26	atrial fibrillation	dsyn	C0004238	Atrial Fibrillation	Afib,AF - Atrial fibrillation,AURICULAR FIBRILLATION,AFib,Atrial Fibrillation,AF,ATRIAL FIBRILLATION
+26	CHF	dsyn	C0018802	Congestive heart failure	Cardiac failure,CARDIAC FAILURE CONGESTIVE,CHF,CCF - Congestive cardiac failure,Cardiac failure congestive,Cardiac failure, congestive,CHF - Congestive heart failure,Cardiac Failure,Cardiac Failure Congestive,CHF (congestive heart failure),CONGESTIVE HEART FAILURE
+26	orthopnea	sosy	C0085619	Orthopnea	Must sit up to breath,Orthopnea,Breathlessness lying flat,Orthopnea (finding),Breathless - lying flat,ORTHOPNEA
+26	hypotensive	patf	C0857353	Hypotensive	hypotensive,hypotensives,Hypotensive
+26	cardiac monitoring	diap	C0150496	Cardiac monitoring	Cardiac monitoring, NOS,cardiac monitor,Cardiac monitoring (regime/therapy),Cardiac Monitoring,Heart Monitoring,Cardiac monitoring
+26	HTN	dsyn	C0020538	Hypertensive disease	Blood Pressure, Increased,Arterial hypertension,Blood Pressures, High,Elevated blood pressure,Blood Pressure, High,Complications affecting other specified body systems, not elsewhere classified, hypertension,BP+ - Hypertension,BP - High blood pressure,Blood pressure high,BLOOD PRESSURE HIGH,HBP
+26	dobutamine	orch,phsu	C0012963	Dobutamine	3,4-Dihydroxy-N-[3-(4-hydroxyphenyl)-1-methylpropyl]-beta-phenylethylamine,DOBUTAMINE,Dobutamina,(+-)-4-(2-((3-(P-Hydroxyphenyl)-1-methylpropyl)amino)ethyl)pyrocatechol,Dobutamin,DOBUTamine,1,2-Benzenediol, 4-(2-((3-(4-hydroxyphenyl)-1-methylpropyl)amino)ethyl)-, (+-)-,Dobutamine,4-{2-[3-(4-hydroxy-phenyl)-1-methyl-propylamino]-ethyl}-benzene-1,2-diol,DL-Dobutamine
+27	headache	sosy	C0018681	Headache	CEPHALGIA,CEPHALALGIA
+27	shoulder discomfort	sosy	C1096593	shoulder discomfort	Shoulder discomfort,shoulder discomfort
+27	neck CT	diap	C0412604	Computed Tomography (CT) of Neck	CT scan of neck,Computed tomography of neck (procedure),ct of neck,Computerized tomography of neck,Computed Tomography (CT) of Neck,CT scan;neck,CT scan of the neck,ct neck,CT of neck,Computed tomography of neck,Computerised tomography of neck,computed tomography of neck,neck ct,CT scan of neck (procedure)
+27	neck discomfort	sosy	C0863104	neck discomfort	Neck discomfort,discomfort neck,neck discomfort
+27	CT head	diap	C0202691	CAT scan of head	Computerised tomogram head,CT scan of head (procedure),CT scan of the head,Computerized axial tomography of head,CT of head,Computed tomography of head,C.A.T. scan of head,CAT scan of head,CT scan;head,Computerised axial tomography of head,Computerised tomography of head,Computed tomography of head (procedure),CT scan of head,CT of structures of the head
+27	acute subdural hematoma	patf	C0749098	Hematoma, Subdural, Acute	Acute Subdural Hematomas,Acute Subdural Hematoma,Acute subdural hematoma,Acute subdural haematoma
+27	herniation	anab	C0019270	Hernia	HERNIA,HERNIA NOS,Hernia,HERNIATION
+27	discomfort	sosy	C2364135	Actual Discomfort	Discomfort,Discomfort, NOS,Actual Discomfort,Discomfort NOS,Discomfort (finding)
+28	emesis	sosy	C0042963	Vomiting	Being sick,EMESIS,Emesis
+28	melena	patf	C0025222	Melena	Dark stools,MELAENA,MELENA,Altered blood in stool,Black, tarry stool,Black stools,BLACK STOOL,Altered blood passed per rectum
+29	O2	elii,phsu	C0030054	Oxygen	O2,O,O2 - Oxygen,O2 element,O>2<,OXYGEN,O<sub>2</sub>,Elemental oxygen,O element,Chemical oxygen
+29	dyspnea increased	sosy	C0574066	Increasing breathlessness	Increasing breathlessness,Increasing breathlessness (finding),Increased shortness of breath,SHORTNESS OF BREATH INCREASED
+29	idiopathic pulmonary fibrosis	dsyn	C1800706	Idiopathic Pulmonary Fibrosis	Disease, Hamman-Rich,CFA - Cryptogenic fibrosing alveolitis,Carrington-Liebow syndrome,Cryptogenic Fibrosing Alveolitides,Cryptogenic Fibrosing Alveolitis,Cryptogenic fibrosing alveolitis,Diseases, Hamman-Rich
+29	dyspnea	sosy	C0013404	Dyspnea	BREATHLESSNESS,Breathing difficult,Breath shortness,BREATH SHORTNESS,Breathlessness,Breath Shortnesses,Breathless,BREATHING DIFFICULT,Breathing Difficulties,Breath Shortness
+29	increased requirement	patf	C0520917	Increased metabolic requirement	Increased metabolic requirement,Increased metabolic requirement (finding),Increased requirement
+29	dyspnea on exertion	sosy	C0231807	Dyspnea on exertion	DYSPNEA, EXERTIONAL,Breathlessness on exertion,DYSPNEA (ON EXERTION),DYSPNEA ON EXERTION,DOE
+29	pneumonia	dsyn	C0032285	Pneumonia	Lung inflamed,Lung inflammation
+30	junctional rhythm	patf	C0232208	Atrioventricular junctional rhythm	AV NODE RHYTHMS,Junctional rhythm,Atrioventricular junctional rhythm (disorder),Junctional Rhythm by EKG Finding,JUNCTIONAL RHYTHM,Nodal rhythm,AV junctional rhythm,Junctional Rhythm,Junctional Rhythm by ECG Finding,Atrioventricular junctional rhythm
+30	verapamil	orch,phsu	C0042523	Verapamil	VERAPAMIL,Benzeneacetonitrile, alpha-(3-((2-(3,4-dimethoxyphenyl)ethyl)methylamino)propyl)-3,4-dimethoxy-alpha-(1-methylethyl)-,Iproveratril,Product containing verapamil (medicinal product),Verapamil,Product containing verapamil
